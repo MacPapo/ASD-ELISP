@@ -1,0 +1,10 @@
+#+TITLE: Mastering Data Structure and Algorithms
+#+AUTHOR: Jacopo Costantini
+
+Trying to Master ASD in Elisp!!
+
+* Fibonacci Algorithm
+
+** Fibonacci Definition
+
+** Binet Algorithm
