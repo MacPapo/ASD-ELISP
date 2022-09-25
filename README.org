@@ -1,4 +1,4 @@
-#+TITLE: Mastering Data Structure and Algorithms
+#+TITLE: Mastering Data Structurs and Algorithms
 #+AUTHOR: Jacopo Costantini
 
 Trying to Master ASD in Elisp!!
